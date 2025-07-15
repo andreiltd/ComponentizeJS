@@ -1,3 +1,4 @@
 [submodule "StarlingMonkey"]
 	path = StarlingMonkey
-	url = git@github.com:bytecodealliance/StarlingMonkey
+	url = git@github.com:andreiltd/StarlingMonkey
+	branch = pkcs8
